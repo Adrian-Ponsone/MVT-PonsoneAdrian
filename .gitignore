@@ -1,3 +1,5 @@
 venv-mvt
 __pycache__
-db.sqlite3
+# db.sqlite3        Lo dejo comentado para que se suba al repositorio en este caso, y asi puedas ver que lo que se muestra en
+#                   la vista  'ver_familiares.html' es lo mismo que fui creando con la vista 'crear_familiar'
+#                   en otra situacion el db.sqlite lo dejaria descomentado para que no se suba al repositorio de github
